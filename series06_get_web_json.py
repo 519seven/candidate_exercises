@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
-#   Exercise 6
+#   Series 6
+
 # # Topic
 # # # Basic web GET and JSON processing
 # # Challenge Level

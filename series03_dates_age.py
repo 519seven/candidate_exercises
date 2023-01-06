@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
-#   Exercise 3
+#   Series 3
+
 # # Topic
 # # # Dates
 # # Challenge Level

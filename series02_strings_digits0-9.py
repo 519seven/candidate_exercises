@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
-#   Exercise 2
+#   Series 2
+
 # # Topic
 # # # Strings
 # # Challenge Level

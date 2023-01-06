@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-#   Exercise 1
+#   Series 1
 
 # # Topic
 # ## Strings

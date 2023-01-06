@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
-#   Exercise 5
+#   Series 5
+
 # # Topic
 # # # Comparing Classes
 # # Challenge Level

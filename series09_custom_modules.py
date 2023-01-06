@@ -1,13 +1,16 @@
 #!/usr/bin/env python
 
-#   Exercise 7
-# # Topic
+#   Series 7
+
+# # Topic:
 # # # Custom Modules
-# # Challenge Level
+# # Challenge Level:
 # # # Medium
+
 # # Description
 # # # Create a custom module for accessing data in your population table
-#
+#     Do be completed with series08_sqlalchemy
+
 # # Your Solutions' Relative Levels:
 # # # - N/A
 #

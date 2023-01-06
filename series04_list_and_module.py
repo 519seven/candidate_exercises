@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
-#   Exercise 4
+#   Series 4
+
 # # Topic
 # # # Lists and Imported Package
 # # Challenge Level

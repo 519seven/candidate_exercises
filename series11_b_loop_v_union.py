@@ -1,10 +1,9 @@
 #!/usr/bin/env python
 
-#   Exercise 11
+#   Series 11
 
 # # Topic
 # ## Performance
-
 # # Challenge Level
 # ## Medium
 

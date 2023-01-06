@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
-#   Exercise 7
+#   Series 7
+
 # # Topic
 # # # Decorators
 # # Challenge Level

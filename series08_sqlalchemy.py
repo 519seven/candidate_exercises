@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
-#   Exercise 8
+#   Series 8
+
 #
 # # Topic
 # # # Interacting with database using sqlalchemy and pandas dataframe
