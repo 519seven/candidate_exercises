@@ -23,7 +23,7 @@ from fibonacci import fibonacci
 # # Example Use Case(s)
 #
 # - A Fibonacci sequence involves adding the previous number to the current 
-#   number, starting with 0 and 1.
+#   number.  In this exercise, we are starting with 0 and 1.
 #   Example: 0 1 1 2 3 5 8 13 21 34 55 89
 # ******************************************************************************
 
