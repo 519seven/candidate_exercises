@@ -1,0 +1,29 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "5643394f268c313ed80fb2bfdbbbb9127d59236eba6d2450da7cc71f8bc4ea92"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.10"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "py-fibonacci": {
+            "hashes": [
+                "sha256:a31b97379f444384f2349e34a8cfd350d3219e45ac794cb0f9541db4e5476250",
+                "sha256:faba28da27092bc3e83c78fd73f0b0c5e3c548b9d7690b6194774441e03b84e7"
+            ],
+            "index": "pypi",
+            "version": "==0.5.2"
+        }
+    },
+    "develop": {}
+}
